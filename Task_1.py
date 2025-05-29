@@ -16,3 +16,4 @@ df_female = pd.read_csv(f_female,skiprows=4)
 print(df_total.head())
 print(df_male.head())
 print(df_female.head())
+
